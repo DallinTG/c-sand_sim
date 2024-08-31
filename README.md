@@ -10,13 +10,13 @@ shut up about it.
 _________________________________________________
 Controls
 -------------------------------------------------
-LMB = place 
-RMB = pan
-Scroll Wheel = Zoom in/out
-Spacebar = Pause
-Shift + Scroll Wheel = Change Materials
-Up Arrow = Bigger Brush
-Down Arrow = Smaller Brush
+|LMB = place| 
+|RMB = pan|
+|Scroll Wheel = Zoom in/out|
+|Spacebar = Pause|
+|Shift + Scroll Wheel = Change Materials|
+|Up Arrow = Bigger Brush|
+|Down Arrow = Smaller Brush|
 _________________________________________________
 Things That I still Want To Do But Probably Won't
 -------------------------------------------------
