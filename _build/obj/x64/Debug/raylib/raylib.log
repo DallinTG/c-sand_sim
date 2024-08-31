@@ -1,0 +1,16 @@
+﻿  raudio.c
+F:\dev\C++\sand_sim_2.0\c-sand_sim\raylib-master\src\external\jar_xm.h(242,1): warning C4005: 'DEBUG': macro redefinition
+F:\dev\C++\sand_sim_2.0\c-sand_sim\raylib-master\src\external\jar_xm.h(242,1): message : 'DEBUG' previously declared on the command line
+  rcore.c
+F:\dev\C++\sand_sim_2.0\c-sand_sim\raylib-master\src\external\rprand.h(205,27): warning C4018: '<': signed/unsigned mismatch
+  rglfw.c
+  rmodels.c
+F:\dev\C++\sand_sim_2.0\c-sand_sim\raylib-master\src\rmodels.c(5287,29): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+F:\dev\C++\sand_sim_2.0\c-sand_sim\raylib-master\src\rmodels.c(5299,29): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+  rshapes.c
+  rtext.c
+  rtextures.c
+F:\dev\C++\sand_sim_2.0\c-sand_sim\raylib-master\src\rtextures.c(2194,34): warning C4018: '>=': signed/unsigned mismatch
+  utils.c
+  Generating Code...
+  raylib.vcxproj -> F:\dev\C++\sand_sim_2.0\c-sand_sim\_bin\Debug\raylib.lib
