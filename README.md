@@ -1,12 +1,12 @@
 _________________________________________________
 Info
 -------------------------------------------------
-This is a sand sim or at least that's what i call 
+This is a sand sim or at least that's what I call 
 it this was my first project in c++ i built 2 sand sims 
 in JS before this but quickly ran into performance issues
 so i decided to try C++. y a sand sim in the first place
 this is because of the game noita and my brother would not
-shut up about it. 
+shut up about it. Bilt with C++ and raylib
 _________________________________________________
 Controls
 -------------------------------------------------
