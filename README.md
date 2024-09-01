@@ -1,3 +1,5 @@
+
+![Icon image](https://raw.githubusercontent.com/DallinTG/c-sand_sim/main/Icon.png)
 _________________________________________________
 Info
 -------------------------------------------------
