@@ -10,13 +10,13 @@ shut up about it.
 _________________________________________________
 Controls
 -------------------------------------------------
-|LMB = place| 
-|RMB = pan|
-|Scroll Wheel = Zoom in/out|
-|Spacebar = Pause|
-|Shift + Scroll Wheel = Change Materials|
-|Up Arrow = Bigger Brush|
-|Down Arrow = Smaller Brush|
+|LMB = Place|                         
+|RMB = Pan|                              
+|Scroll Wheel = Zoom in/out|                              
+|Spacebar = Pause|                              
+|Shift + Scroll Wheel = Change Materials|                              
+|Up Arrow = Bigger Brush|                              
+|Down Arrow = Smaller Brush|                              
 _________________________________________________
 Things That I still Want To Do But Probably Won't
 -------------------------------------------------
@@ -26,14 +26,19 @@ many hours of struggling that was abandoned
 _________________________________________________
 PS
 -------------------------------------------------
-You can change these. W and H must just stay =
-int world_width = 10;
-int world_height = 10;
-int chunck_width = 48;
-int chunck_height = 48;
+You can change these. W and H must just stay =          
+int world_width = 10;                            
+int world_height = 10;                            
+int chunck_width = 48;                          
+int chunck_height = 48;           
+
 This is a bug and will not be fixed
+_________________________________________________
+Things That I Have Learned From This Project
+-------------------------------------------------
+Never doing oop again
 _________________________________________________
 Build Info
 -------------------------------------------------
-Figure it out By yourself I have know idea I just youse VS
+Figure it out By yourself I have know idea I just youse VS i also now hate VS
 _________________________________________________
